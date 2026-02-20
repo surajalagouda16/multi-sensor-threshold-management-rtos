@@ -13,7 +13,7 @@ OS_MUT mutex;
 #define t_red (1UL<<15)
 #define buzzer (1UL<<24)
 
-/* ================= LCD PINS (LOCKED – REFERENCE) ================= */
+/* ================= LCD PINS (LOCKED â€“ REFERENCE) ================= */
 #define LCD_RS_PORT   LPC_GPIO3
 #define LCD_RS_PIN    25
 #define LCD_RW_PORT   LPC_GPIO3
