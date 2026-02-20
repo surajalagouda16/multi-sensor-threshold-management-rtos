@@ -69,3 +69,4 @@ firmware/
 - Deterministic task scheduling
 
 ## 📷 System Architecture
+![Block Diagram](/Flow Chart.png)
