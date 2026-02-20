@@ -81,3 +81,7 @@ The following flow chart illustrates the RTOS-based task execution and monitorin
 ## Working Hardware Video
 
 ![Working Hardware Video](DEMO%20VIDEO)
+
+## 👨‍💻 Author
+
+Suraj A.
