@@ -68,8 +68,12 @@ firmware/
 - 12-bit ADC gas sensing implementation
 - Deterministic task scheduling
 
-## 🔄 System Flow Chart
+## System Flow Chart
 
 The following flow chart illustrates the RTOS-based task execution and monitoring logic:
 
 ![System Flow Chart](Flow%20Chart.png)
+
+## Interfacing Diagram
+
+![Interfacing Diagram](Interfacing_Diagram.png)
