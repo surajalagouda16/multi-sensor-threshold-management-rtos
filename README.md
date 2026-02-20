@@ -77,3 +77,7 @@ The following flow chart illustrates the RTOS-based task execution and monitorin
 ## Interfacing Diagram
 
 ![Interfacing Diagram](Interfacing_Diagram.png)
+
+## Working Hardware Video
+
+![Working Hardware Video](DEMO%20VIDEO)
